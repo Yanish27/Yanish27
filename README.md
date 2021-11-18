@@ -27,7 +27,7 @@
 ## Contact
 
 <a href="https://www.linkedin.com/in/yanishalaoui"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px"></a>ㅤ
-<a href="https://www.yanish.fr/"><img src="https://w7.pngwing.com/pngs/348/799/png-transparent-web-development-computer-icons-web-icons-web-design-text-logo.png" width="31px"></a>ㅤ
+<a href="https://www.yanish.fr/"><img src="https://www.seekpng.com/png/full/311-3113352_world-wide-web-logo-png-website-image-without.png" width="31px"></a>ㅤ
 <a href="mailto:yanis.halaoui@yanish.fr"><img src="https://upload.wikimedia.org/wikipedia/fr/a/a7/Mail_%28Apple%29_logo.png" width="31px"></a>ㅤ
 <a href="tel:+33756957227"><img src="https://cdn.pixabay.com/photo/2014/04/02/11/16/phone-305741_960_720.png" width="30px"></a>ㅤ
 
