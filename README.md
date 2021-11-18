@@ -57,6 +57,7 @@
 <img align="left" alt="MySQL Workbench" width="35px" src="https://pic.clubic.com/v1/images/1506472/raw" />
 <br><br>
 
+
 ## Certifications
 
 <a href="https://yanish.fr/certifications/Certification_ANSSI.pdf" target="_blank"><img align="left" alt="Agence nationale de sécurité
@@ -69,14 +70,14 @@ des systèmes d'information" width="35px" src="https://upload.wikimedia.org/wiki
 <a href="https://yanish.fr/certifications/Certification_Windows_10.pdf" target="_blank"><img align="left" alt="Installez et deployez Windows 10" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Windows_10_Logo.svg/2560px-Windows_10_Logo.svg.png" /></a>
 <a href="https://yanish.fr/certifications/Certification_algo.pdf" target="_blank"><img align="left" alt="Découvrez le fonctionnement des algorithmes" width="35px" src="https://cdn-icons-png.flaticon.com/512/490/490273.png" /></a>
 <a href="https://yanish.fr/certifications/Certification_business_plan.pdf" target="_blank"><img align="left" alt="Construisez un business plan" width="35px" src="https://www.ftm-technologies.com/wp-content/uploads/2019/06/logo-contrat.png" /></a>
-<br><br>
+<br><br><br>
 
-## Contact
+## Contactez-moi ! 
 
-<a href="https://www.linkedin.com/in/yanishalaoui"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px"></a>ㅤ
-<a href="https://www.yanish.fr/"><img src="https://www.seekpng.com/png/full/311-3113352_world-wide-web-logo-png-website-image-without.png" width="31px"></a>ㅤ
-<a href="mailto:yanis.halaoui@yanish.fr"><img src="https://upload.wikimedia.org/wikipedia/fr/a/a7/Mail_%28Apple%29_logo.png" width="31px"></a>ㅤ
-<a href="tel:+33756957227"><img src="https://cdn.pixabay.com/photo/2014/04/02/11/16/phone-305741_960_720.png" width="30px"></a>ㅤ
+<a href="https://www.linkedin.com/in/yanishalaoui"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="35px"></a>ㅤ
+<a href="https://www.yanish.fr/"><img src="https://www.seekpng.com/png/full/311-3113352_world-wide-web-logo-png-website-image-without.png" width="36px"></a>ㅤ
+<a href="mailto:yanis.halaoui@yanish.fr"><img src="https://upload.wikimedia.org/wikipedia/fr/a/a7/Mail_%28Apple%29_logo.png" width="36px"></a>ㅤ
+<a href="tel:+33756957227"><img src="https://cdn.pixabay.com/photo/2014/04/02/11/16/phone-305741_960_720.png" width="36px"></a>ㅤ
 
 
 
