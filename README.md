@@ -24,6 +24,21 @@
 
 <br/>
 
+## Systèmes d'exploitations
+
+
+<img align="left" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/600px-Windows_logo_-_2012.svg.png" />
+<img align="left" width="35px" src="https://lanandwan.fr/wp-content/uploads/2018/01/windows-server-color.png" />
+<img align="left" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Finder_Icon_macOS_Big_Sur.png" />
+<img align="left" width="35px" src="https://free-astro.org/images/0/04/Debian_logo.png" />
+<img align="left" width="35px" src="https://www.cisco.com/c/fr_fr/solutions/small-business/networking/switches/jcr:content/Grid/category_atl_copy_co/layout-category-atl/spotlight_copy.img.png/1593197494445.png" />
+<img align="left" width="35px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3b/Raspberry_Pi_logo.svg/1200px-Raspberry_Pi_logo.svg.png" />
+<img align="left" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1200px-Arduino_Logo.svg.png" />
+
+
+<br/>
+
+
 ## Contact
 
 <a href="https://www.linkedin.com/in/yanishalaoui"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px"></a>ㅤ
