@@ -2,14 +2,14 @@
 <br>Je suis Yanis <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">! 
 <br><br>
 <img  src="https://img.shields.io/badge/-Annecy-blue?style=for-the-badge" /> <img  src="https://img.shields.io/badge/-Lycée_Saint_Michel-orange?style=for-the-badge" />
-<br/>
+<br><br>
 
 ## Qui suis-je ?
 - 📚 Étudiant en deuxième année de BTS SIO (Services informatiques aux organisations)
 - 🧑‍💻 Passionné d'informatique et de développement
 - ⚡ Fibre entrepreneuriale (Voir mes projets ci-dessous)
 - 🔍 Toujours à la recherche d'optimisation et de nouvelles technologies
-
+<br><br>
 
 ## Langages
 <img align="left" alt="HTML5" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" />
@@ -21,8 +21,7 @@
 <img align="left" alt="C#" width="35px" src="https://blog.ai3.fr/wp-content/uploads/2018/11/logo-csharp.png" />
 <img align="left" alt="BASH" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" />
 <img align="left" alt="PYTHON" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1024px-Python.svg.png" />
-
-<br/>
+<br><br>
 
 ## Systèmes d'exploitations
 
@@ -34,9 +33,7 @@
 <img align="left" width="35px" src="https://www.cisco.com/c/fr_fr/solutions/small-business/networking/switches/jcr:content/Grid/category_atl_copy_co/layout-category-atl/spotlight_copy.img.png/1593197494445.png" />
 <img align="left" width="35px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3b/Raspberry_Pi_logo.svg/1200px-Raspberry_Pi_logo.svg.png" />
 <img align="left" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1200px-Arduino_Logo.svg.png" />
-
-
-<br/>
+<br><br>
 
 ## Logiciels
 
@@ -58,7 +55,21 @@
 <img align="left" alt="Gitbash" width="35px" src="https://gitforwindows.org/img/gwindows_logo.png" />
 <img align="left" alt="Wamp" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/WampServer-logo.png" />
 <img align="left" alt="MySQL Workbench" width="35px" src="https://pic.clubic.com/v1/images/1506472/raw" />
-<br>
+<br><br>
+
+## Certifications
+
+<a href="https://yanish.fr/certifications/Certification_ANSSI.pdf" target="_blank"><img align="left" alt="Agence nationale de sécurité
+des systèmes d'information" width="35px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d9/ANSSI_Logo.svg/1200px-ANSSI_Logo.svg.png" /></a>
+<a href="https://yanish.fr/certifications/Certification_CNIL.pdf" target="_blank"><img align="left" alt="Commission Nationale de l'Informatique et des Libertés" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Commission_Nationale_de_l’Informatique_et_des_Libertés_logo.svg/1200px-Commission_Nationale_de_l’Informatique_et_des_Libertés_logo.svg.png" /></a>
+<a href="https://yanish.fr/certifications/Certification_Linux.pdf" target="_blank"><img align="left" alt="Reprenez le contrôle à l'aide de Linux !" width="35px" src="https://logos-world.net/wp-content/uploads/2020/09/Linux-Logo-1996-present.png" /></a>
+<a href="https://yanish.fr/certifications/Certification_Marketingdigital.pdf" target="_blank"><img align="left" alt="Initiez-vous au marketing digital" width="35px" src="https://www.iroquois.fr/wp-content/uploads/2019/12/slide-side-8-2.png" /></a>
+<a href="https://yanish.fr/certifications/Certification_PHP_MySQL.pdf" target="_blank"><img align="left" alt="Concevez votre site web avec PHP et MySQL" width="35px" src="https://cdn.app.compendium.com/uploads/user/e7c690e8-6ff9-102a-ac6d-e4aebca50425/8a997691-8bf1-4258-9b29-795bf5ddd085/Image/7e869e0f81db34c1a99a7906a2fe8cae/php_mysql.png" /></a>
+<a href="https://yanish.fr/certifications/Certification_VPN_Firewall.pdf" target="_blank"><img align="left" alt="Sécurisez votre réseau grâce aux VPN et Firewall" width="35px" src="https://icon-library.com/images/vpn-icon-png/vpn-icon-png-11.jpg" /></a>
+<a href="https://yanish.fr/certifications/Certification_Windows_10.pdf" target="_blank"><img align="left" alt="Installez et deployez Windows 10" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Windows_10_Logo.svg/2560px-Windows_10_Logo.svg.png" /></a>
+<a href="https://yanish.fr/certifications/Certification_algo.pdf" target="_blank"><img align="left" alt="Découvrez le fonctionnement des algorithmes" width="35px" src="https://cdn-icons-png.flaticon.com/512/490/490273.png" /></a>
+<a href="https://yanish.fr/certifications/Certification_business_plan.pdf" target="_blank"><img align="left" alt="Construisez un business plan" width="35px" src="https://www.ftm-technologies.com/wp-content/uploads/2019/06/logo-contrat.png" /></a>
+<br><br>
 
 ## Contact
 
