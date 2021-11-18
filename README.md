@@ -38,6 +38,27 @@
 
 <br/>
 
+## Logiciels
+
+
+<img align="left" alt="Putty" width="35px" src="https://1.bp.blogspot.com/-egxH7QNR06k/XYf07qUEyDI/AAAAAAAAALs/4FjZwscJ9pUJHwt2EgccZiqJORVvUV3NwCLcBGAsYHQ/w680/PUTTY.png" />
+<img align="left" alt="Winscp" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/d/de/WinSCP_Logo.png" />
+<img align="left" alt="Sublime Text 3" width="35px" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" />
+<img align="left" alt="PHP Storm" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/1200px-PhpStorm_Icon.svg.png" />
+<img align="left" alt="Visual Studio 2020" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/2060px-Visual_Studio_Icon_2019.svg.png" />
+<img align="left" alt="Virtualbox" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" />
+<img align="left" alt="Vmware" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vmware_workstation_16_icon.svg/769px-Vmware_workstation_16_icon.svg.png" />
+<img align="left" alt="Process Hacker 2" width="35px" src="https://raw.githubusercontent.com/processhacker/processhacker/master/ProcessHacker/resources/ProcessHacker.png" />
+<img align="left" alt="Moba X Term" width="35px" src="https://assets.coingecko.com/coins/images/13388/large/76043636.png?1608087219" />
+<img align="left" alt="Cisco Packet Tracer" width="35px" src="https://2.bp.blogspot.com/-91Og1JzFXQk/XYlLgeNB2LI/AAAAAAAAIxc/R95KsDWvm8QxcyznPqZfwpotw57FZ6v7gCLcBGAsYHQ/s320/Packet%2BTracer.png" />
+<img align="left" alt="File Zilla" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FileZilla_logo.svg/1024px-FileZilla_logo.svg.png" />
+<img align="left" alt="GIMP" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/1200px-The_GIMP_icon_-_gnome.svg.png" />
+<img align="left" alt="Photoshop" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/langfr-330px-Adobe_Photoshop_CC_icon.svg.png" />
+<img align="left" alt="Editeur de registre" width="35px" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/RegEdit.png" />
+<img align="left" alt="Gitbash" width="35px" src="https://gitforwindows.org/img/gwindows_logo.png" />
+<img align="left" alt="Wamp" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/WampServer-logo.png" />
+<img align="left" alt="MySQL Workbench" width="35px" src="https://pic.clubic.com/v1/images/1506472/raw" />
+<br>
 
 ## Contact
 
